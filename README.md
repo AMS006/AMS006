@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas sain</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Web Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ams006&label=Profile%20views&color=0e75b6&style=flat" alt="ams006" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **anassain13@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-orcin-seven-11.vercel.app/](https://portfolio-orcin-seven-11.vercel.app/)
+- 📄 Know about my experiences [Resume](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:6165fadf-107c-3961-ab08-f3a718373de8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
