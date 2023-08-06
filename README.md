@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ams006" alt="ams006" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs,BlockChain**
+- 🌱 I’m currently learning **NextJs 13,**
 
 - 👨‍💻 All of my projects are available at [https://anas-sain-portfolio.vercel.app/](https://anas-sain-portfolio.vercel.app/)
 
